@@ -1,0 +1,17 @@
+*********************************************
+* ItsT3K's WSL Experience in a BAT/SH thing *
+* Boredom created and programmed by ItsT3K  *
+* Created on April 23rd, 2019 at around 9PM *
+* Website				    *
+* https://itst3k.cf			    *
+* https://itst3k.github.io		    *
+*********************************************
+
+This most likely will not have a license because it's a simple batch/shell program 
+for the Windows-Linux Subsystem. 
+
+Currently this is just a simple Batch/Shell program but someday I might improve upon 
+it and make a GUI based program with the shell scripts built in. Oh well.
+Anyway. Have a nice day!
+
+						-ItsT3K
