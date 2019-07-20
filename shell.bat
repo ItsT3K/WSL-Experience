@@ -1,5 +1,6 @@
 echo off
 cls
+title WSL Experience Menu V1.0 NoGUI
 :menu
 echo .
 echo ---------------------------------------------------------
